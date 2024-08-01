@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
-import 'bootstrap/dist/css/bootstrap.css';
-import 'bootstrap/dist/js/bootstrap.js';
+
+
 import Header from './Nav';
 import Heading from './Heading';
 import BasicExample from './Card';
